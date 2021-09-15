@@ -1,7 +1,8 @@
 # Hey there 👋
 
-## I'm a Student Developer!!
+## I'm a Student Developer
 
+ ### About me!!
 - 🎓 I'm a Computer Science student (graduating 2023)
 - 🌱 Ambitious Programmer,Intellectually Curious
 - 👯 I’m looking to collaborate with other content creators
