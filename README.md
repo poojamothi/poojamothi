@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hi there 👋
 
 ## I'm a Student Developer!!
 
@@ -33,8 +33,11 @@
 <br />
 
 ---
+### My Github Profile Stats
+| <a href="https://github.com/poojamothi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=poojamothi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a> | <a href="https://github.com/poojamothi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojamothi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 
 [twitter]: https://twitter.com/MothiPooja?s=08
 [linkedin]: https://www.linkedin.com/in/pooja-mothi-2650721ab/
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
