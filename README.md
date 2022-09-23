@@ -6,7 +6,7 @@
 - 🎓 I'm a Computer Science student (graduating 2023)
 - 🌱 Ambitious Programmer,Intellectually Curious
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
